@@ -15,13 +15,13 @@ oleh karena itu, dibuat sebuah alat pendeteksi hujan yang menggunakan sensor rai
 # iv. Analisis dan Diskusi Project 
 - alat dan bahan
 
-Esp8266
-
-raindrop sensor
-
-HL-01 modul
-
-DHT11
+    1). Esp8266
+   
+    2). raindrop sensor
+    
+    3). HL-01 modul
+    
+    4). DHT11
 
 - foto alat 
 
@@ -29,6 +29,9 @@ DHT11
 
 ![sensor 2](https://user-images.githubusercontent.com/92429478/173230403-473f5198-f7be-4adf-84bd-93e137b81d32.jpeg)
 
+- wiring diagram 
+
+![wiring diagram](https://user-images.githubusercontent.com/92429478/173231557-9bdb16c2-1ca6-4373-9c28-051af7250c9d.png)
 
 
 
