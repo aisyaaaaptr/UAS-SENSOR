@@ -17,7 +17,7 @@ oleh karena itu, dibuat sebuah alat pendeteksi hujan yang menggunakan sensor rai
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Deskripsi singkat
 
-Alat pendeteksi hujan adalah sebuah alat yang digunakan untuk mendeteksi hujan berdasarkan intensitas air, suhu, dan kelembaban. Alat ini menggunakan sensor raindrop dan sensor DHT11 yang kemudian data tersebut di proses ke telepon genggam dan menghasilkan nilai dari temperatur, nilai kelembaban dan nilai intensitas air.
+Alat pendeteksi hujan adalah sebuah alat yang digunakan untuk mendeteksi hujan berdasarkan intensitas air, suhu, dan kelembaban. Alat ini menggunakan sensor raindrop dan sensor DHT11 dimana data yang masuk akan di proses ke telepon genggam dan memunculkan nilai temperatur, nilai kelembaban dan nilai intensitas air.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,6 +34,8 @@ Alat pendeteksi hujan adalah sebuah alat yang digunakan untuk mendeteksi hujan b
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Cara kerja
+
+Untuk pengujian nilai suhu dan nilai kelembaban, dilakukan pengujian dengan mendekatkan solder pada sensor DHT11 untuk memastikan apakah alat tersebut berjalan atau tidak. Untuk pengujian nilai intensitas air, dilakukan pengujian dengan meneteskan air pada sensor raindrop. nilai dari intensitas hujan kami setting ke nilai 100 untuk keadaan normal (tanpa air), sehingga ketika sensor raindrop diberi air, maka nilai intensitas air yang muncul pada telepon genggam akan semakin berkurang bergantung dari seberapa banyak air yang ada. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
