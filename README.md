@@ -9,7 +9,7 @@ ALAT PENDETEKSI HUJAN MENGGUNAKAN RAINDROP DAN DHT11 SENSOR
 Indonesia merupakan negara yang memiliki iklim tropis dengan dua musim yaitu musim hujan dan musim kemarau. Kedua musim ini di pengaruhi oleh Global Warming yang mengakibatkan kedua musim tersebut menjadi sulit diprediksi kedatangannya. Hal ini tentunya akan berpengaruh pada aktivitas manusia yang dalam kegiatannya membutuhkan cahaya matahari, misalnya kegiatan menjemur baju, makanan atau barang lainnya di luar ruangan. 
 
 # iii. Solusi
-Untuk mendeteksi hujan, kelembaban menjadi salah satu indikatornya. Data kelembaban sangat membantu pengamatan  diluar  ruangan karena  saat  kelembaban  udara  meningkat,  maka  curah  hujan  juga  akan  mengalami  kenaikan.  Selain  itu,  kadar  uap  air  di  udara  juga  bisa  menjadi  indikator  apakah  cuaca  akan  berawan  atau  tidak, sebab  kadar  uap  air  merupakan  salah  satu  komposisi  pembentukan  awan.  
+Untuk mendeteksi hujan, selain intensitas curah hujan yang turun, kelembaban dan temperatur juga menjadi salah satu indikatornya. Data kelembaban dan temperatur sangat membantu pengamatan  diluar  ruangan karena  saat  kelembaban  udara  meningkat,  maka  curah  hujan  juga  akan  mengalami  kenaikan.    
 
 oleh karena itu, dibuat sebuah alat pendeteksi hujan yang menggunakan sensor raindrop dan sensor dht11 yang diharapkan dapat menjadi solusi dalam pendeteksian hujan.  
 
