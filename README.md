@@ -13,9 +13,21 @@ Untuk mendeteksi hujan, kelembaban menjadi salah satu indikatornya. Data kelemba
 oleh karena itu, dibuat sebuah alat pendeteksi hujan yang menggunakan sensor raindrop dan sensor dht11 yang diharapkan dapat menjadi solusi dalam pendeteksian hujan.  
 
 # iv. Analisis dan Diskusi Project 
+- alat dan bahan
+Esp8266
 
-foto alat 
+raindrop sensor
+
+HL-01 modul
+
+DHT11
+
+- foto alat 
+
 ![sensor 1](https://user-images.githubusercontent.com/92429478/173230333-31d6d82c-4fc6-4d17-b0ea-44e08f2d378c.jpeg)
+
+![sensor 2](https://user-images.githubusercontent.com/92429478/173230403-473f5198-f7be-4adf-84bd-93e137b81d32.jpeg)
+
 
 
 
