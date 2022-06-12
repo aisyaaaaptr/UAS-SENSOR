@@ -1,8 +1,9 @@
 # UAS-SENSOR
-Repository yang berisikan project pada mata kuliah sensor dan tranduser - jurusan Mekatronika dan Kecerdasan Buatan - Universitas Pendidikan Indonesia Kampus Purwakarta
+Repository yang berisikan project pada mata kuliah sensor dan tranduser - jurusan Mekatronika dan Kecerdasan Buatan - Universitas Pendidikan Indonesia Kampus Purwakarta. 
 
+Anggota kelompok : Aisyah Aira Putri Maharani (2102727), Diana Eka Putri (2100041), Refrisca Lintang Pramesti (2103164), Muhammad Fajar Imannul Haq (2107617), Himmawan Saptha A (2100445). 
 # i. Judul
-SENSOR PENDETEKSI HUJAN MENGGUNAKAN RAINDROP DAN DHT11 SENSOR
+ALAT PENDETEKSI HUJAN MENGGUNAKAN RAINDROP DAN DHT11 SENSOR
 
 # ii. Problem 
 Indonesia merupakan negara yang memiliki iklim tropis dengan dua musim yaitu musim hujan dan musim kemarau. Kedua musim ini di pengaruhi oleh Global Warming yang mengakibatkan kedua musim tersebut menjadi sulit diprediksi kedatangannya. Hal ini tentunya akan berpengaruh pada aktivitas manusia yang dalam kegiatannya membutuhkan cahaya matahari, misalnya kegiatan menjemur baju, makanan atau barang lainnya di luar ruangan. 
@@ -13,21 +14,28 @@ Untuk mendeteksi hujan, kelembaban menjadi salah satu indikatornya. Data kelemba
 oleh karena itu, dibuat sebuah alat pendeteksi hujan yang menggunakan sensor raindrop dan sensor dht11 yang diharapkan dapat menjadi solusi dalam pendeteksian hujan.  
 
 # iv. Analisis dan Diskusi Project 
+
+- Deskripsi singkat 
+
+Alat pendeteksi hujan adalah sebuah alat yang digunakan untuk mendetksi hujan berdasarkan intensitas air, suhu, dan kelembaban. Alat ini menggunakan sensor raindrop dan sensor DHT11 yang kemudian data tersebut di proses ke telepon genggam dan menghasilkan nilai dari temperatur, nilai kelembaban dan nilai intensitas air.
+
 - alat dan bahan
 
-    1). Esp8266
+  1). Esp8266
+  
+  2). raindrop sensor
    
-    2). raindrop sensor
+  3). HL-01 modul
     
-    3). HL-01 modul
-    
-    4). DHT11
+  4). DHT11
 
-- foto alat 
+- Foto alat 
 
 ![sensor 1](https://user-images.githubusercontent.com/92429478/173230333-31d6d82c-4fc6-4d17-b0ea-44e08f2d378c.jpeg)
 
 ![sensor 2](https://user-images.githubusercontent.com/92429478/173230403-473f5198-f7be-4adf-84bd-93e137b81d32.jpeg)
+
+- Foto contoh hasil 
 
 - wiring diagram 
 
