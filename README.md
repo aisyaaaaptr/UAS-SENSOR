@@ -14,6 +14,11 @@ oleh karena itu, dibuat sebuah alat pendeteksi hujan yang menggunakan sensor rai
 
 # iv. Analisis dan Diskusi Project 
 
+foto alat 
+![sensor 1](https://user-images.githubusercontent.com/92429478/173230333-31d6d82c-4fc6-4d17-b0ea-44e08f2d378c.jpeg)
+
+
+
 # v. Referensi
 Referensi review paper 
 
