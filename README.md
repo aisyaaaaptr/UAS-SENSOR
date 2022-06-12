@@ -1,7 +1,7 @@
 # UAS-SENSOR
 Repository ini berisikan project mata kuliah sensor dan tranduser - jurusan Mekatronika dan Kecerdasan Buatan - Universitas Pendidikan Indonesia Kampus Purwakarta. 
 
-Anggota kelompok : Aisyah Aira Putri Maharani (2102727), Diana Eka Putri (2100041), Refrisca Lintang Pramesti (2103164), Muhammad Fajar Imannul Haq (2107617), Himmawan Saptha A (2100445). 
+Anggota kelompok : Aisyah Aira Putri Maharani (2102727), Diana Eka Putri (2100041), Refrisca Lintang Pramesti (2103164), Muhamad Fajar Imannul Haq (2107617), Himmawan Saptha A (2100445). 
 # i. Judul
 ALAT PENDETEKSI HUJAN MENGGUNAKAN RAINDROP DAN DHT11 SENSOR
 
